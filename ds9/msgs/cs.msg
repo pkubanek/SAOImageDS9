@@ -1,16 +1,16 @@
 ::msgcat::mcset cs {2D} 
-::msgcat::mcset cs {3D View} 
+::msgcat::mcset cs {3D View} [encoding convertfrom iso8859-2 {3D pohled}]
 ::msgcat::mcset cs {3D} 
 ::msgcat::mcset cs {A postscript generation error has occurred} [encoding convertfrom iso8859-2 {Chyba pøi generování postscriptu}]
 ::msgcat::mcset cs {AIP} 
 ::msgcat::mcset cs {Abort} [encoding convertfrom iso8859-2 {Pøeru¹it}]
-::msgcat::mcset cs {About SAOImageDS9} 
+::msgcat::mcset cs {About SAOImageDS9} [encoding convertfrom iso8859-2 {O programu SAOImageDS9}]
 ::msgcat::mcset cs {About} [encoding convertfrom iso8859-2 {O programu}] 
 ::msgcat::mcset cs {Acknowledgment} [encoding convertfrom iso8859-2 {Podìkování}]
 ::msgcat::mcset cs {Add} [encoding convertfrom iso8859-2 {Pøidat}]
 ::msgcat::mcset cs {Advanced} [encoding convertfrom iso8859-2 {Dal¹í nastavení}]
-::msgcat::mcset cs {Aligned} 
-::msgcat::mcset cs {Align} [encoding convertfrom iso8859-2 {Zarovnat}]
+::msgcat::mcset cs {Aligned}  [encoding convertfrom iso8859-2 {Srovnané}]
+::msgcat::mcset cs {Align} [encoding convertfrom iso8859-2 {Srovnat}]
 ::msgcat::mcset cs {All Columns} [encoding convertfrom iso8859-2 {V¹echny sloupce}]
 ::msgcat::mcset cs {All Rows} [encoding convertfrom iso8859-2 {V¹echny øádky}]
 ::msgcat::mcset cs {All} [encoding convertfrom iso8859-2 {V¹e}]
@@ -39,19 +39,19 @@
 ::msgcat::mcset cs {Annulus} [encoding convertfrom iso8859-2 {Kruh}]
 ::msgcat::mcset cs {Apply} [encoding convertfrom iso8859-2 {Pou¾ít}]
 ::msgcat::mcset cs {ArcMin} [encoding convertfrom iso8859-2 {úhlových minut}]
-::msgcat::mcset cs {ArcSec} [encoding convertfrom iso8859-2 {úhlových sekund}]
+::msgcat::mcset cs {ArcSec} [encoding convertfrom iso8859-2 {úhlových vteøin}]
 ::msgcat::mcset cs {Architecture} [encoding convertfrom iso8859-2 {Architektura}]
-::msgcat::mcset cs {Archives} 
-::msgcat::mcset cs {Array} 
+::msgcat::mcset cs {Archives} [encoding convertfrom iso8859-2 {Archívy}]
+::msgcat::mcset cs {Array} [encoding convertfrom iso8859-2 {Pole}]
 ::msgcat::mcset cs {Arrow} [encoding convertfrom iso8859-2 {©ipka}]
-::msgcat::mcset cs {Asteroids} 
+::msgcat::mcset cs {Asteroids} [encoding convertfrom iso8859-2 {Asteriody}]
 ::msgcat::mcset cs {Astronomy} [encoding convertfrom iso8859-2 {Astronomie}]
 ::msgcat::mcset cs {At Startup} [encoding convertfrom iso8859-2 {Pøi spu¹tìní}]
-::msgcat::mcset cs {At least 2 different catalogs are required} 
+::msgcat::mcset cs {At least 2 different catalogs are required} [encoding convertfrom iso8859-2 {Musíte vybrat nejménì dva rozdílné katalogy}]
 ::msgcat::mcset cs {Auto Centroid} [encoding convertfrom iso8859-2 {Automatické centrování}]
 ::msgcat::mcset cs {Auto Plot 2D} [encoding convertfrom iso8859-2 {Automatický 2D graf}]
 ::msgcat::mcset cs {Auto Plot 3D} [encoding convertfrom iso8859-2 {Automatický 3D graf}]
-::msgcat::mcset cs {Auto Plot Statistics} 
+::msgcat::mcset cs {Auto Plot Statistics} [encoding convertfrom iso8859-2 {Automaticky kreslit statistiku}]
 ::msgcat::mcset cs {Auto Plot} [encoding convertfrom iso8859-2 {Automatický graf}]
 ::msgcat::mcset cs {Autoload FITS Regions} [encoding convertfrom iso8859-2 {Automaticky nahrát FITS oblasti}]
 ::msgcat::mcset cs {Autoload} [encoding convertfrom iso8859-2 {Automatické nahrávání}]
@@ -850,10 +850,10 @@
 ::msgcat::mcset cs {Z Axis Scale} 
 ::msgcat::mcset cs {ZScale Parameters} [encoding convertfrom iso8859-2 {Parametry ZScale}]
 ::msgcat::mcset cs {Zero} [encoding convertfrom iso8859-2 {Nula}]
-::msgcat::mcset cs {Zoom Fit} 
+::msgcat::mcset cs {Zoom Fit} [encoding convertfrom iso8859-2 {Pøizbùsobit oknu}]
 ::msgcat::mcset cs {Zoom In} [encoding convertfrom iso8859-2 {Zvìt¹it}]
 ::msgcat::mcset cs {Zoom Out} [encoding convertfrom iso8859-2 {Zmen¹it}]
-::msgcat::mcset cs {Zoom} [encoding convertfrom iso8859-2 {Zvìt¹ení}]
+::msgcat::mcset cs {Zoom} [encoding convertfrom iso8859-2 {Velikost}]
 ::msgcat::mcset cs {already connected} 
 ::msgcat::mcset cs {and} 
 ::msgcat::mcset cs {blue} [encoding convertfrom iso8859-2 {modrá}]
