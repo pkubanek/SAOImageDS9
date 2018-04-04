@@ -792,7 +792,7 @@
 ::msgcat::mcset cs {Unable to load} 
 ::msgcat::mcset cs {Unable to locate URL} 
 ::msgcat::mcset cs {Unable to match target with XPA Mime request} 
-::msgcat::mcset cs {Unable to open file} 
+::msgcat::mcset cs {Unable to open file} [encoding convertfrom iso8859-2 {Není mo¾né otevøít soubor}]
 ::msgcat::mcset cs {Unable to process Analysis file} 
 ::msgcat::mcset cs {Unable to save RGB image from a non-rgb frame} 
 ::msgcat::mcset cs {Undo} [encoding convertfrom iso8859-2 {Zpìt}]
@@ -822,7 +822,7 @@
 ::msgcat::mcset cs {VO Server} 
 ::msgcat::mcset cs {VO} 
 ::msgcat::mcset cs {Value} [encoding convertfrom iso8859-2 {Hodnota}]
-::msgcat::mcset cs {Vector} 
+::msgcat::mcset cs {Vector} [encoding convertfrom iso8859-2 {Vektor}]
 ::msgcat::mcset cs {Vertical Graph} [encoding convertfrom iso8859-2 {Vertikální graf}]
 ::msgcat::mcset cs {Vertical Layout} [encoding convertfrom iso8859-2 {Vertikální rozlo¾ení}]
 ::msgcat::mcset cs {Vertical Text} 
@@ -831,20 +831,20 @@
 ::msgcat::mcset cs {Virtual Observatory} [encoding convertfrom iso8859-2 {Virtuální Observatoø}]
 ::msgcat::mcset cs {WCS Parameters} [encoding convertfrom iso8859-2 {Detaily WCS}]
 ::msgcat::mcset cs {WCS} 
-::msgcat::mcset cs {Wavelength} 
+::msgcat::mcset cs {Wavelength} [encoding convertfrom iso8859-2 {Vlnová délka}]
 ::msgcat::mcset cs {Web Browser} [encoding convertfrom iso8859-2 {Prohlí¾eè}]
 ::msgcat::mcset cs {White} 
 ::msgcat::mcset cs {Width} [encoding convertfrom iso8859-2 {Tlou¹»ka}]
 ::msgcat::mcset cs {Window} 
 ::msgcat::mcset cs {Words matching title, description} 
-::msgcat::mcset cs {X Axis Title} 
-::msgcat::mcset cs {X Grid} 
+::msgcat::mcset cs {X Axis Title} [encoding convertfrom iso8859-2 {Titulek osy X}]
+::msgcat::mcset cs {X Grid} [encoding convertfrom iso8859-2 {X Møí¾ka}]
 ::msgcat::mcset cs {XPA Information} 
 ::msgcat::mcset cs {XPA not initialized} [encoding convertfrom iso8859-2]
 ::msgcat::mcset cs {XPA} 
 ::msgcat::mcset cs {X} 
-::msgcat::mcset cs {Y Axis Title} 
-::msgcat::mcset cs {Y Grid} 
+::msgcat::mcset cs {Y Axis Title} [encoding convertfrom iso8859-2 {Titulek osy Y}]
+::msgcat::mcset cs {Y Grid} [encoding convertfrom iso8859-2 {Y Møí¾ka}]
 ::msgcat::mcset cs {Yellow} [encoding convertfrom iso8859-2 {®lutá}]
 ::msgcat::mcset cs {Y} 
 ::msgcat::mcset cs {Z Axis Scale} 
@@ -863,19 +863,19 @@
 ::msgcat::mcset cs {green} [encoding convertfrom iso8859-2 {zelená}]
 ::msgcat::mcset cs {grey} [encoding convertfrom iso8859-2 {¹edá}]
 ::msgcat::mcset cs {g} 
-::msgcat::mcset cs {h5utils} 
+::msgcat::mcset cs {h5utils} [encoding convertfrom iso8859-2 {horko}]
 ::msgcat::mcset cs {heat} [encoding convertfrom iso8859-2 {horko}]
-::msgcat::mcset cs {internal error} 
-::msgcat::mcset cs {not connected} 
-::msgcat::mcset cs {not} 
-::msgcat::mcset cs {only} 
-::msgcat::mcset cs {or center of data} 
+::msgcat::mcset cs {internal error} [encoding convertfrom iso8859-2 {vnitøní chyba}]
+::msgcat::mcset cs {not connected} [encoding convertfrom iso8859-2 {není pøipojeno}]
+::msgcat::mcset cs {not} [encoding convertfrom iso8859-2 {není}]
+::msgcat::mcset cs {only} [encoding convertfrom iso8859-2 {pouze}]
+::msgcat::mcset cs {or center of data} [encoding convertfrom iso8859-2 {nebo støed dat}]
 ::msgcat::mcset cs {rainbow} [encoding convertfrom iso8859-2 {duha}]
 ::msgcat::mcset cs {red} [encoding convertfrom iso8859-2 {èervená}]
 ::msgcat::mcset cs {rows of data have been downloaded. More may be available. You may wish to adjust the maximum allowed} [encoding convertfrom iso8859-2 {øádkù dat. Více jich mù¾e být k dispozici. Zkuste zmìnit povolené maximum}]
 ::msgcat::mcset cs {r} 
 ::msgcat::mcset cs {staircase} [encoding convertfrom iso8859-2 {schodi¹tì}]
 ::msgcat::mcset cs {standard} 
-::msgcat::mcset cs {unable to locate HUB} 
+::msgcat::mcset cs {unable to locate HUB} [encoding convertfrom iso8859-2 {HUB nenalezen}]
 ::msgcat::mcset cs {x} 
 ::msgcat::mcset cs {} 
